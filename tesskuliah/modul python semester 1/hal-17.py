@@ -1,0 +1,7 @@
+nama = input("Masukkan Nama Anda = ")
+nim = input("Masukkan Nim Anda = ")
+alamat = input("Masukkan Alamat Anda = ")
+print("-"*30)
+print("Nama anda adalah = ",nama )
+print("Nim anda adalah = ", nim)
+print("Alamat anda adalah = ", alamat)
